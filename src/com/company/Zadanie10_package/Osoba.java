@@ -1,4 +1,4 @@
-package com.company.TestoweKolosy.Zadanie10_package;
+package com.company.Zadanie10_package;
 
 import java.time.LocalDate;
 
